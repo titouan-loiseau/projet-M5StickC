@@ -1,6 +1,7 @@
 #define WIFISSID "SSID";
 #define WIFIPASS "PASSWORD";
 
+//Compte google utilisé pour envoyer des mails
 #define GMAIL_SMTP_USERNAME "addresse.email@serveur.com"
 #define GMAIL_SMTP_PASSWORD "mot_de_passe"
 
